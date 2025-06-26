@@ -1,0 +1,9 @@
+{
+  "type": "activity",
+  "name": "test",
+  "description": "bla bla bla app stuff",
+  "icons": {
+    "default": ""
+  },
+  "launch_uri": ""
+}
